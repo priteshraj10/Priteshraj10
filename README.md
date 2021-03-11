@@ -32,11 +32,9 @@ Social platform
 <br/>
 <br/>
 <p align="center">
-<a href="https://linkedin.com/in/reubence" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="reubence" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/13764834/reuben-rapose?tab=profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="reuben-rapose" height="30" width="30" /></a>
-<a href="https://kaggle.com/reubence" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="reubence" height="30" width="30" /></a>
-<a href="https://instagram.com/reubenrapose" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="reubenrapose" height="30" width="30" /></a>
-<a href="https://medium.com/@reuben3699" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@reuben3699" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/priteshraj10/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="priteshraj10" height="30" width="30" /></a> <a href="https://stackoverflow.com/users/15358565/pritesh-raj" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="pritesh-raj" height="30" width="30" /></a>
+<a href="https://www.kaggle.com/priteshraj10" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="priteshraj10" height="30" width="30" /></a> <a href="https://priteshraj.medium.com/" target="blank">
+<img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="@priteshraj" height="30" width="30" /></a>
 </p>
 
 
