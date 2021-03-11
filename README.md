@@ -35,6 +35,9 @@ Social platform
 <a href="https://www.linkedin.com/in/priteshraj10/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="priteshraj10" height="30" width="30" /></a> <a href="https://stackoverflow.com/users/15358565/pritesh-raj" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="pritesh-raj" height="30" width="30" /></a>
 <a href="https://www.kaggle.com/priteshraj10" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="priteshraj10" height="30" width="30" /></a> <a href="https://priteshraj.medium.com/" target="blank">
 <img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="@priteshraj" height="30" width="30" /></a>
+
+<a href="https://sheddinglightupon.wordpress.com" target="blank">
+<img align="center" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-tile.svg" height="30" width="30" /></a>
 </p>
 
 
