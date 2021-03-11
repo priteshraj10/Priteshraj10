@@ -55,8 +55,20 @@ Here are some ideas to get you started:
 
 [![Pritesh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@priteshraj10)](https://github.com/Priteshraj10/github-readme-stats)
 
+</br>
+
+<details>
+<summary> Language Statistics</summary></br>
+<p align = "center">
+<img src="https://wakatime.com/share/@priteshraj10/56ca86b5-ccf6-4749-aed7-9b75b4cf0667.svg", height=400/>
+</p>
+</detials>
+
 <br>
+
 <br/>
+
+
 <p align="center">
 <a href="https://www.linkedin.com/in/priteshraj10/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="priteshraj10" height="30" width="30" /></a> <a href="https://stackoverflow.com/users/15358565/pritesh-raj" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="pritesh-raj" height="30" width="30" /></a>
 <a href="https://www.kaggle.com/priteshraj10" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="priteshraj10" height="30" width="30" /></a> <a href="https://priteshraj.medium.com/" target="blank">
