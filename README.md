@@ -1,6 +1,8 @@
 <h1 align="center">Hey 👋, I'm Pritesh</h1>
 <h3 align="center">I got into Data Science be
 
+![alt text](https://github.com/Priteshraj10/Priteshraj10/blob/main/assets/social_icons/avatar1-removebg-preview.png?raw=true)
+
 Some Frameworks I have worked with
 
 
