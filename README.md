@@ -1,6 +1,14 @@
 <h1 align="center">Hey 👋, I'm Pritesh</h1>
 <h3 align="center">I got into Data Science be
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=priteshraj10.priteshraj10)
+
+![Lines of code](https://img.shields.io/badge/De%20Hello%20World%2C%20j%27ai%20%C3%A9crit-2.8%20million%20Lignes%20de%20code-blue)
+
+<a href="https://www.buymeacoffee.com/priteshraj" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 150px !important;" ></a>
+
+
+
 Some Frameworks I have worked with
 
 <br/>

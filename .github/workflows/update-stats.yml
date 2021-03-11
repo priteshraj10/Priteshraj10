@@ -15,8 +15,8 @@ jobs:
     steps:
       - uses: Priteshraj10/waka-readme-stats@master #PLEASE USE MASTER BRANCH
         with:
-          WAKATIME_API_KEY: ${{ 37ea74dc-e62c-4630-a662-29670a09d0ba }}
-          GH_TOKEN: ${{ 8e53737e9a7401bb8d25b80e7c7de1f8fc732f7a }}
+          WAKATIME_API_KEY: ${37ea74dc-e62c-4630-a662-29670a09d0ba}
+          GH_TOKEN: ${8e53737e9a7401bb8d25b80e7c7de1f8fc732f7a}
           SHOW_PROJECTS: "False"
           SHOW_LINES_OF_CODE: "True"
           LOCALE: "en"
