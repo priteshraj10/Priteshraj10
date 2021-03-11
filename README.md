@@ -28,6 +28,9 @@ Some Frameworks I have worked with
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reubence&show_icons=true" alt="reubence"/> </p>
 
 
+[![Pritesh GitHub stats](https://github-readme-stats.vercel.app/api?username=Priteshraj10)](https://github.com/Priteshraj10/github-readme-stats)
+
+
 Social platform
 <br/>
 <br/>
