@@ -3,6 +3,7 @@
 
 Some Frameworks I have worked with
 
+<p>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,7 +14,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+</p>
 
 
 
@@ -37,11 +38,15 @@ Here are some ideas to get you started:
 
 </p>
 
+<p align="left">
+
 [![Pritesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priteshraj10&show_icons=True)](https://github.com/Priteshraj10/github-readme-stats)
 
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priteshraj10&langs_count=10)](https://github.com/Priteshraj10/github-readme-stats)
 
 [![Pritesh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@priteshraj10)](https://github.com/Priteshraj10/github-readme-stats)
+</p>
+
 
 Social platform
 <br/>
