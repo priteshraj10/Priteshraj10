@@ -51,6 +51,9 @@ Some Frameworks I have worked with
 <br/>
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-902-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
@@ -117,15 +120,7 @@ Dart                     4 repos             ██░░░░░░░░░�
 PHP                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.5%
 
 ```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/anmol098/anmol098/master/charts/bar_graph.png) 
-
-
 <!--END_SECTION:waka-->
-
 
 <br/>
 
