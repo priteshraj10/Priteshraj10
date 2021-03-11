@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priteshraj10&langs_count=10)](https://github.com/Priteshraj10/github-readme-stats)
 
-[![Pritesh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@priteshraj)](https://github.com/Priteshraj10/github-readme-stats)
+[![Pritesh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@priteshraj10)](https://github.com/Priteshraj10/github-readme-stats)
 
 Social platform
 <br/>
