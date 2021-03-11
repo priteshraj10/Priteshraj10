@@ -1,13 +1,12 @@
 <h1 align="center">Hey 👋, I'm Pritesh</h1>
 <h3 align="center">I got into Data Science be
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=priteshraj10.priteshraj10)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-902-blue)
 
-![Lines of code](https://img.shields.io/badge/De%20Hello%20World%2C%20j%27ai%20%C3%A9crit-2.8%20million%20Lignes%20de%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
+
 
 <a href="https://www.buymeacoffee.com/priteshraj" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 150px !important;" ></a>
-
-
 
 Some Frameworks I have worked with
 
@@ -49,6 +48,84 @@ Some Frameworks I have worked with
 <p align = "center">
 <img src="https://wakatime.com/share/@priteshraj10/56ca86b5-ccf6-4749-aed7-9b75b4cf0667.svg", height=400/>
 </p>
+<br/>
+
+<!--START_SECTION:waka-->
+
+**🐱 My Github Data** 
+
+> 🏆 11 Contributions in the Year 2021
+ > 
+> 📦 334.4 kB Used in Github's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 33 Public Repositories 
+ > 
+> 🔑 18 Private Repositories  
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    71 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.73% 
+🌆 Daytime    183 commits    ████████░░░░░░░░░░░░░░░░░   35.4% 
+🌃 Evening    138 commits    ██████░░░░░░░░░░░░░░░░░░░   26.69% 
+🌙 Night      125 commits    ██████░░░░░░░░░░░░░░░░░░░   24.18%
+
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday       69 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.35% 
+Tuesday      57 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.03% 
+Wednesday    55 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.64% 
+Thursday     81 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.67% 
+Friday       58 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.22% 
+Saturday     67 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.96% 
+Sunday       130 commits    ██████░░░░░░░░░░░░░░░░░░░   25.15%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+JavaScript               9 hrs 25 mins       ███████████████████░░░░░░   76.07% 
+JSON                     2 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   19.83% 
+Git Config               11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.56% 
+Markdown                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.41% 
+Other                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.0%
+
+🔥 Editors: 
+WebStorm                 12 hrs 23 mins      █████████████████████████   100.0%
+
+💻 Operating System: 
+Mac                      12 hrs 23 mins      █████████████████████████   100.0%
+
+```
+
+**I Mostly Code in Vue** 
+
+```text
+Vue                      10 repos            ██████░░░░░░░░░░░░░░░░░░░   25.0% 
+Java                     7 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.5% 
+JavaScript               7 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.5% 
+Dart                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
+PHP                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.5%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/anmol098/anmol098/master/charts/bar_graph.png) 
+
+
+<!--END_SECTION:waka-->
+
 
 <br/>
 
