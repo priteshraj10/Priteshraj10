@@ -22,13 +22,11 @@ Some Frameworks I have worked with
 
 </p>
 
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reubence&layout=compact&hide=html" alt="reubence" /></p>
+[![Pritesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priteshraj10)](https://github.com/Priteshraj10/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reubence&show_icons=true" alt="reubence"/> </p>
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priteshraj10&langs_count=10)](https://github.com/Priteshraj10/github-readme-stats)
 
-
-[![Pritesh GitHub stats](https://github-readme-stats.vercel.app/api?username=Priteshraj10)](https://github.com/Priteshraj10/github-readme-stats)
+[![Pritesh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Priteshraj10)](https://github.com/Priteshraj10/github-readme-stats)
 
 
 Social platform
