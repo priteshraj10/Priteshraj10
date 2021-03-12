@@ -42,8 +42,6 @@ Some Frameworks I have worked with
 
 </br>
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@priteshraj10/fec6b1a1-1feb-4328-8b50-8638466b90d2.png"/></a>
-
 <br/>
 
 <p align="center">
