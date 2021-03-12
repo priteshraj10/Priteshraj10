@@ -2,7 +2,6 @@
 <h3 align="center">I got into Data Science be 
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-902-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
 
 
@@ -48,12 +47,6 @@ Some Frameworks I have worked with
 <p align = "center">
 <img src="https://wakatime.com/share/@priteshraj10/56ca86b5-ccf6-4749-aed7-9b75b4cf0667.svg", height=400/>
 </p>
-<br/>
-
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-902-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
 
 <br/>
 
