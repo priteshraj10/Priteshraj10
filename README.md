@@ -7,7 +7,7 @@
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
 
 
-<a href="https://www.buymeacoffee.com/priteshraj" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 150px !important;" ></a>
+<a href="https://www.buymeacoffee.com/priteshraj" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 100px !important;" ></a>
 
 Some Frameworks I have worked with
 
@@ -45,8 +45,7 @@ Some Frameworks I have worked with
 
 </br>
 
-<summary> Language Statistics</summary></br>
-<p align = "center">
+<p align = "left">
 <img src="https://wakatime.com/share/@priteshraj10/56ca86b5-ccf6-4749-aed7-9b75b4cf0667.svg", height=400/>
 </p>
 
