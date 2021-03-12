@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Pritesh</h1>
-<h3 align="center">I got into Data Science be
+<h3 align="center">I got into Data Science be 
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-902-blue)
 
