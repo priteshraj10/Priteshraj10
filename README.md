@@ -28,7 +28,7 @@ Some Frameworks I have worked with
 
 <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="50" height="50"/>
 
-<br/>
+</p>
 
 [![Pritesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priteshraj10&count_private=True&show_icons=True)](https://github.com/Priteshraj10/github-readme-stats)
 
@@ -39,8 +39,6 @@ Some Frameworks I have worked with
 <br/>
 
 [![Pritesh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@priteshraj10)](https://github.com/Priteshraj10/github-readme-stats)
-
-</br>
 
 <br/>
 
