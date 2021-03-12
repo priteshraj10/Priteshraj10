@@ -8,15 +8,15 @@
 
 
 <a href="https://www.buymeacoffee.com/priteshraj" target="blank"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 180px !important;"/></a>
-
 <br>
 
 </br>
-<a href="https://www.buymeacoffee.com/priteshraj" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 100px !important;" ></a>
 
 Some Frameworks I have worked with
+<br>
 
-<br/>
+
+</br>
 
 <p align="center">
 <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="50" height="50"/> 
