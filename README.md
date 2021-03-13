@@ -1,13 +1,30 @@
 <h1 align="center">Hey 👋, I'm Pritesh</h1>
-<h3 align="center">Data Scientist </h3>
+<h3 align="center">AI developer</h3>
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-902-blue) ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id) ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
 
 <a href="https://www.buymeacoffee.com/priteshraj" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height= "50px" width="180px" ></a>
 
 <br/>
 
-### Hand's on Frameworks
+Hi, I'm Pritesh Raj, a passionate self-taught Data Scientist and a AI developer from India. My passion for AI lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+
+I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+  
+- 💬 Ask me about anything, I am happy to help;
+- 📫 How to reach me: [@priteshraj_10](https://twitter.com/priteshraj_10);
+
+📊 **This Week I Spent My Time On:**
+<!--START_SECTION:waka-->
+```text
+C++          1 hr 3 mins     █████████▒░░░░░░░░░░░░░░░   37.90 % 
+JavaScript   41 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.96 % 
+Other        21 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.94 % 
+JSON         19 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
+JSX          19 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
+```
+<!--END_SECTION:waka-->
+### Languages and Tools
 
 <p align="center">
 
