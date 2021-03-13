@@ -7,7 +7,7 @@
 
 <br/>
 
-## Some Frameworks I have worked with
+### Some Frameworks I have worked with
 
 
 <p align="center">
@@ -29,6 +29,9 @@
 <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="50" height="50"/>
 
 </p>
+
+
+### Updated Stats
 
 [![Pritesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priteshraj10&count_private=True&show_icons=True)](https://github.com/Priteshraj10/github-readme-stats)
 
