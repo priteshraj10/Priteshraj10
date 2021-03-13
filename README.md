@@ -1,4 +1,5 @@
-### Hey, I'm Pritesh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hey, I'm Pritesh
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Priteshraj10.Priteshraj10) ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
 
@@ -11,7 +12,7 @@ Hi, I'm Pritesh Raj, a passionate self-taught Data Scientist and a AI developer 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
   
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@priteshraj_10](https://twitter.com/priteshraj_10);
+- 📫 How to reach me: [priteshraj41](https://mail.google.com/mail/u/?authuser=priteshraj41@gmail.com);
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
