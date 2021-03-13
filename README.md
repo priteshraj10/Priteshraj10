@@ -23,8 +23,10 @@ JSON         19 mins         ███░░░░░░░░░░░░░░
 JSX          19 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
 ```
 <!--END_SECTION:waka-->
-<p align ="center">
-### Languages and Tools
+
+<p align="center">
+
+## Languages and Tools
 
 <p align="center">
 
