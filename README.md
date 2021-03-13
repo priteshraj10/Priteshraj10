@@ -5,10 +5,10 @@
 
 <a href="https://www.buymeacoffee.com/priteshraj" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height= "50px" width="180px" ></a>
 
+<br/>
 
-</br>
-Some Frameworks I have worked with
-</br>
+## Some Frameworks I have worked with
+
 
 <p align="center">
 
