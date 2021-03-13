@@ -23,9 +23,10 @@ JSON         19 mins         ███░░░░░░░░░░░░░░
 JSX          19 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
 ```
 <!--END_SECTION:waka-->
-### Languages and Tools
 
 <p align="center">
+
+### Languages and Tools
 
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="50" height="50"/>
 
