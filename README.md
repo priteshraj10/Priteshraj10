@@ -24,9 +24,8 @@ JSX          19 mins         ███░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-<p align="center">
+<p align="center" ##Languages and Tools>
 
-## Languages and Tools
 
 <p align="center">
 
