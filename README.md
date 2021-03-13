@@ -24,8 +24,8 @@ JSX          19 mins         ███░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-<p align="center" ##Languages and Tools>
 
+## Languages and Tools
 
 <p align="center">
 
@@ -46,9 +46,6 @@ JSX          19 mins         ███░░░░░░░░░░░░░░
 <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="50" height="50"/>
 
 </p>
-
-
-### Updated Stats
 
 [![Pritesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priteshraj10&count_private=True&show_icons=True)](https://github.com/Priteshraj10/github-readme-stats)
 
