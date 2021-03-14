@@ -13,17 +13,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [priteshraj41](https://mail.google.com/mail/u/?authuser=priteshraj41@gmail.com);
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-C++          1 hr 3 mins     █████████▒░░░░░░░░░░░░░░░   37.90 % 
-JavaScript   41 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.96 % 
-Other        21 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.94 % 
-JSON         19 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
-JSX          19 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
-```
-<!--END_SECTION:waka-->
-
 
 ## Languages and Tools
 
