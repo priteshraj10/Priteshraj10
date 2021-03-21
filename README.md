@@ -54,3 +54,32 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="@priteshraj" height="50" width="50" /></a> <a href="https://sheddinglightupon.wordpress.com" target="blank">
 <img align="center" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-tile.svg" height="50" width="50" /></a>
 </p>
+
+
+<!--START_SECTION:waka-->
+**I'm an early 🐤** 
+```text
+🌞 Morning    95 commits     ███████░░░░░░░░░░░░░░░░░░   30.55% 
+🌆 Daytime    78 commits     ██████░░░░░░░░░░░░░░░░░░░   25.08% 
+🌃 Evening    112 commits    █████████░░░░░░░░░░░░░░░░   36.01% 
+🌙 Night      26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.36%
+
+```
+
+`SHOW_DAYS_OF_WEEK`       flag can be set to `False` to hide the commits made on different days of week
+
+📅 **I'm Most Productive on Sundays** 
+
+```text
+Monday       50 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.19% 
+Tuesday      85 commits     █████░░░░░░░░░░░░░░░░░░░░   22.43% 
+Wednesday    56 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.78% 
+Thursday     44 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.61% 
+Friday       28 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.39% 
+Saturday     30 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.92% 
+Sunday       86 commits     █████░░░░░░░░░░░░░░░░░░░░   22.69%
+```
+
+
+
+<!--END_SECTION:waka-->
