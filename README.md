@@ -13,6 +13,13 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [priteshraj41](https://mail.google.com/mail/u/?authuser=priteshraj41@gmail.com);
 
+---
+
+![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/priteshraj10/competition/light)
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/priteshraj10/dataset/light)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/priteshraj10/notebook/light)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/priteshraj10/discussion/light)
+
 
 ## Languages and Tools
 
