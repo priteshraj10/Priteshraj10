@@ -1,4 +1,4 @@
-# Hey, I'm Pritesh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22px">
+# Hey, I'm Pritesh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px">
 
 ![Pritesh's Github Profile Views](https://komarev.com/ghpvc/?username=priteshraj109&color=blueviolet)  
 
