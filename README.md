@@ -17,11 +17,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 ---
 
-[![Kaggle Competitions](https://road-to-kaggle-grandmaster.vercel.app/api/badges/priteshraj10/competition/light)](https://www.kaggle.com/priteshraj10)
-[![Kaggle Datasets](https://road-to-kaggle-grandmaster.vercel.app/api/badges/priteshraj10/dataset/light)](https://www.kaggle.com/priteshraj10)
-[![Kaggle Notebooks](https://road-to-kaggle-grandmaster.vercel.app/api/badges/priteshraj10/notebook/light)](https://www.kaggle.com/priteshraj10)
-[![Kaggle Discussions](https://road-to-kaggle-grandmaster.vercel.app/api/badges/priteshraj10/discussion/light)](https://www.kaggle.com/priteshraj10)
-
 ## Languages and Tools
 
 <p align="center">
@@ -37,7 +32,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 [![Pritesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priteshraj10&count_private=true&show_icons=true&theme=dracula)](https://github.com/Priteshraj10/github-readme-stats)
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priteshraj10&langs_count=10&layout=compact&theme=dracula)](https://github.com/Priteshraj10/github-readme-stats)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priteshraj10&langs_count=5&layout=compact&theme=dracula)](https://github.com/Priteshraj10/github-readme-stats)
 
 [![Pritesh's time stats](https://github-readme-stats.vercel.app/api/wakatime?username=@priteshraj10&theme=dracula&layout=compact&custom_title=Top%205%20Languages)](https://github.com/Priteshraj10/github-readme-stats)
 
