@@ -17,10 +17,10 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 ---
 
-[![Kaggle Competitions](https://road-to-kaggle-grandmaster.vercel.app/api/badges/priteshraj10/competition/light)](https://www.kaggle.com/priteshraj10)
-[![Kaggle Datasets](https://road-to-kaggle-grandmaster.vercel.app/api/badges/priteshraj10/dataset/light)](https://www.kaggle.com/priteshraj10)
-[![Kaggle Notebooks](https://road-to-kaggle-grandmaster.vercel.app/api/badges/priteshraj10/notebook/light)](https://www.kaggle.com/priteshraj10)
-[![Kaggle Discussions](https://road-to-kaggle-grandmaster.vercel.app/api/badges/priteshraj10/discussion/light)](https://www.kaggle.com/priteshraj10)
+![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/priteshraj10/competition/light)
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/priteshraj10/dataset/light)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/priteshraj10/notebook/light)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/priteshraj10/discussion/light)
 
 ## Languages and Tools
 
