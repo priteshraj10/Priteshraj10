@@ -1,6 +1,6 @@
 # Hey, I'm Pritesh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="55px">
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=priteshraj10.priteshraj10)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=priteshraj10)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.1%20million%20lines%20of%20code-blue)
 
