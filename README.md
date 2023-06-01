@@ -4,7 +4,7 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.1%20million%20lines%20of%20code-blue)
 
-<a href="https://www.buymeacoffee.com/priteshraj" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height= "50px" width="180px"></a>
+<a href="https://www.buymeacoffee.com/priteshraj" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50px" width="180px"></a>
 
 <br/>
 
@@ -14,6 +14,13 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 - 💬 Ask me about anything; I am happy to help.
 - 📫 How to reach me: [priteshraj41@gmail.com](mailto:priteshraj41@gmail.com)
+
+---
+
+[![Kaggle Competitions](https://road-to-kaggle-grandmaster.vercel.app/api/badges/priteshraj10/competition/light)](https://www.kaggle.com/priteshraj10)
+[![Kaggle Datasets](https://road-to-kaggle-grandmaster.vercel.app/api/badges/priteshraj10/dataset/light)](https://www.kaggle.com/priteshraj10)
+[![Kaggle Notebooks](https://road-to-kaggle-grandmaster.vercel.app/api/badges/priteshraj10/notebook/light)](https://www.kaggle.com/priteshraj10)
+[![Kaggle Discussions](https://road-to-kaggle-grandmaster.vercel.app/api/badges/priteshraj10/discussion/light)](https://www.kaggle.com/priteshraj10)
 
 ## Languages and Tools
 
@@ -32,7 +39,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priteshraj10&langs_count=10&layout=compact&theme=dracula)](https://github.com/Priteshraj10/github-readme-stats)
 
-[![Pritesh's time stats](https://github-readme-stats.vercel.app/api/wakatime?username=@priteshraj10&theme=dracula)](https://github.com/Priteshraj10/github-readme-stats)
+[![Pritesh's time stats](https://github-readme-stats.vercel.app/api/wakatime?username=@priteshraj10&theme=dracula&layout=compact&custom_title=Top%205%20Languages)](https://github.com/Priteshraj10/github-readme-stats)
 
 <br/>
 
