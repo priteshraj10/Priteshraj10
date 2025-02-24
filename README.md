@@ -1,4 +1,4 @@
-Here’s an improved and more structured version of your README that aligns your **Tech Stack & Expertise** into a visually appealing side-by-side format using tables.  
+Here's your final polished README with all the enhancements:  
 
 ---
 
@@ -47,10 +47,16 @@ I'm a passionate **Data Scientist** and **AI Developer** from **India**, on a mi
 
 ## 🌱 Current Focus  
 
-🔬 Exploring cutting-edge **Large Language Models**  
-🏗️ Building **scalable AI solutions**  
-🌍 Contributing to **open-source AI projects**  
-🎓 **Mentoring** aspiring data scientists  
+🚀 **Exploring cutting-edge Large Language Models**  
+🛠️ **Building scalable AI solutions for real-world impact**  
+📢 **Contributing to open-source AI projects**  
+🎓 **Mentoring aspiring data scientists & AI developers**  
+
+---
+
+## 📊 GitHub Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=priteshraj&show_icons=true&theme=radical)  
 
 ---
 
@@ -61,7 +67,7 @@ I'm a passionate **Data Scientist** and **AI Developer** from **India**, on a mi
 
 ### 💬 Open for Collaboration  
 
-I'm always excited to **collaborate on AI/ML projects**, **discuss innovative ideas**, or **mentor developers**. Feel free to reach out!  
+If you're working on **AI/ML**, **data science**, or an **innovative startup idea**, let's connect and make something great together!  
 
 ---
 
@@ -69,4 +75,4 @@ I'm always excited to **collaborate on AI/ML projects**, **discuss innovative id
 
 ---
 
-This version makes the **Tech Stack** visually structured and aligned in **side-by-side columns** using **tables**, improving readability. Let me know if you'd like any more tweaks! 🚀
+🔥 *Let’s build the future of AI together!* 🚀
