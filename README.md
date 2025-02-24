@@ -1,5 +1,3 @@
-Here's your final polished README with all the enhancements:  
-
 ---
 
 # Hello World! I'm Pritesh Raj 👋  
