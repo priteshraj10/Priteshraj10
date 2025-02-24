@@ -71,7 +71,7 @@ I'm a passionate **Data Scientist** and **AI Developer** from **India**, on a mi
 I'm always interested in collaborating on AI/ML projects, data science innovations, or breakthrough startup ideas. Let's connect and make something great together!
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=priteshraj10&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
 
 <p align="center">
