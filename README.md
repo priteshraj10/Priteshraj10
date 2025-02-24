@@ -1,70 +1,87 @@
----
+<h1 align="center">Pritesh Raj</h1>
+<p align="center"><em>AI Architect & Data Science Innovator</em></p>
 
-# Hello World! I'm Pritesh Raj 👋  
-
-## 🚀 About Me  
-
-I'm a passionate **Data Scientist** and **AI Developer** from **India**, on a mission to leverage technology for **human advancement**. Think of me as an **AI architect** who builds bridges between complex algorithms and real-world solutions.  
-
-### 💡 What Drives Me  
-
-✔️ **Building AI solutions** that make a real difference  
-✔️ **Creating user-friendly interfaces** for complex systems  
-✔️ **Contributing to open-source** and community-driven projects  
-✔️ **Turning innovative ideas** into scalable solutions  
+<p align="center">
+Crafting intelligent solutions at the intersection of artificial intelligence and practical innovation. Based in India, I architect systems that transform complex algorithms into meaningful human experiences.
+</p>
 
 ---
 
-## 🛠️ Tech Stack & Expertise  
+## Core Expertise
 
-| **AI/ML** | **Data Science** | **Languages** |
-|-----------|----------------|--------------|
-| ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
-| ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) | ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white) |
-| ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
-| ![LangChain](https://img.shields.io/badge/LangChain-005571?style=flat) | ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-D3.js-FF4088?style=flat) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |
+<p align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</p>
 
----
+### Machine Learning & AI
+<p align="left">
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/LangChain-005571?style=flat" alt="LangChain" />
+</p>
 
-| **Backend** | **Frontend** | **Mobile Development** |
-|------------|------------|------------------|
-| ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) | ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=react&logoColor=black) |
-| ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) | ![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white) |
-| ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) | ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white) | |
-| ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) | ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white) | |
+### Data Science & Analytics
+<p align="left">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" alt="R" />
+</p>
 
----
+### Development
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
+</p>
 
-| **DevOps & Tools** | **Databases** | **Message Queues** |
-|------------------|-------------|----------------|
-| ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) | ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white) |
-| ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) | ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white) |
-| ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white) | ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) | |
+### Backend & Infrastructure
+<p align="left">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
+</p>
 
----
+### Cloud & DevOps
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+</p>
 
-## 🌱 Current Focus  
+### Data Infrastructure
+<p align="left">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis" />
+</p>
 
-🚀 **Exploring cutting-edge Large Language Models**  
-🛠️ **Building scalable AI solutions for real-world impact**  
-📢 **Contributing to open-source AI projects**  
-🎓 **Mentoring aspiring data scientists & AI developers**  
+## Current Focus
 
----
+- Advancing Large Language Model applications
+- Developing enterprise AI solutions
+- Contributing to open-source AI initiatives
+- Mentoring aspiring AI practitioners
 
-## 📫 Let's Connect!  
+## Areas of Impact
 
-💼 **[LinkedIn](https://www.linkedin.com/in/priteshraj/)**  
-📧 **[Email](mailto:priteshraj41@gmail.com)**  
+- **AI Solutions** — Building intelligent systems that solve real-world challenges
+- **System Architecture** — Designing scalable and robust technical infrastructures
+- **Innovation** — Transforming ideas into production-ready applications
+- **Knowledge Sharing** — Contributing to the AI community through mentorship and open source
 
-### 💬 Open for Collaboration  
+## Connect
 
-If you're working on **AI/ML**, **data science**, or an **innovative startup idea**, let's connect and make something great together!  
+<p align="center">
+I'm always interested in discussing innovative AI solutions and potential collaborations.
+</p>
 
----
+<p align="center">
+<a href="mailto:priteshraj41@gmail.com">priteshraj41@gmail.com</a> • 
+<a href="https://www.linkedin.com/in/priteshraj/">LinkedIn</a>
+</p>
 
-> 📝 *"The best way to predict the future is to create it." - Peter Drucker*  
-
----
-
-🔥 *Let’s build the future of AI together!* 🚀
+<p align="center">
+<em>"The best way to predict the future is to create it."</em>
+</p>
