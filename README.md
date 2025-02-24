@@ -1,112 +1,81 @@
-<div align="center">
+<h1 align="center">Hello World! I'm Pritesh Raj 👋</h1>
+<h3 align="center">AI Architect & Data Science Innovator 🚀</h3>
 
-# PRITESH RAJ
-*Artificial Intelligence Architect & Innovation Strategist*
+<p align="center">
+  <a href="mailto:priteshraj41@gmail.com"><img src="https://img.shields.io/badge/Email-priteshraj41%40gmail.com-blue?style=flat-square&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/priteshraj/"><img src="https://img.shields.io/badge/LinkedIn-Pritesh_Raj-blue?style=flat-square&logo=linkedin" /></a>
+</p>
 
-</div>
+## 🚀 About Me
 
-<br>
+I'm a passionate **Data Scientist** and **AI Developer** from **India**, on a mission to leverage technology for human advancement. Think of me as an **AI architect** who builds bridges between complex algorithms and real-world solutions.
 
-> "Architecting intelligent solutions that bridge technological innovation with human advancement"
+## 💡 What Drives Me
 
-<br>
+- Building AI solutions that make a real difference
+- Creating user-friendly interfaces for complex systems
+- Contributing to open-source and community-driven projects
+- Turning innovative ideas into scalable solutions
 
-## SIGNATURE TECHNOLOGIES
+## 🛠️ Tech Stack
 
-<div align="center">
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-</div>
-
-<br>
-
-## TECHNICAL EXPERTISE
-
-### Artificial Intelligence & Machine Learning
+### AI/ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-005571?style=flat)
-- Large Language Models & Neural Networks
-- Custom ML Pipeline Development
-- AI System Architecture Design
 
-### Data Science & Analytics
+### Data Science
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-- Advanced Statistical Analysis
-- Predictive Modeling
-- Data Visualization & Storytelling
 
-### Modern Development Stack
-<details>
-<summary><strong>Frontend & Application Development</strong></summary>
-<br>
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-</details>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
-<details>
-<summary><strong>Backend & API Development</strong></summary>
-<br>
-
+### Backend
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
-</details>
 
-<details>
-<summary><strong>Infrastructure & DevOps</strong></summary>
-<br>
+### Frontend & Mobile
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+
+### Databases & Message Queues
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-</details>
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
 
-<br>
+## 🌱 Current Focus
 
-## STRATEGIC FOCUS
+- 🚀 Exploring cutting-edge Large Language Models
+- 🛠️ Building scalable AI solutions for real-world impact
+- 📢 Contributing to open-source AI projects
+- 🎓 Mentoring aspiring data scientists & AI developers
 
-### Current Initiatives
-- 🔬 Pioneering research in Large Language Model applications
-- 🏗️ Architecting enterprise-scale AI solutions
-- 🌟 Leading open-source AI projects
-- 📚 Mentoring next-generation AI practitioners
+## 💬 Let's Connect!
 
-### Innovation Philosophy
-- Building AI solutions with measurable business impact
-- Creating intuitive interfaces for complex systems
-- Fostering open-source collaboration
-- Transforming visionary ideas into production-ready systems
+I'm always interested in collaborating on AI/ML projects, data science innovations, or breakthrough startup ideas. Let's connect and make something great together!
 
-<br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=dark" alt="GitHub Stats" />
+</p>
 
-## AREAS OF IMPACT
+<p align="center">
+  <em>"The best way to predict the future is to create it."</em>
+</p>
 
-|  AI Solutions   | System Architecture | Innovation | Knowledge Sharing |
-|----------------|---------------------|------------|-------------------|
-| • LLM Applications<br>• Neural Networks<br>• ML Pipelines | • Scalable Systems<br>• Cloud Architecture<br>• API Design | • POC Development<br>• Research<br>• Strategy | • Mentorship<br>• Technical Writing<br>• Speaking |
-
-<br>
-
-<div align="center">
-
-## CONNECT & COLLABORATE
-
-*Interested in discussing innovative AI solutions and potential collaborations?*
-
-[![Email](https://img.shields.io/badge/Email-priteshraj41%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:priteshraj41@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pritesh_Raj-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/priteshraj/)
-
----
-
-*"The best way to predict the future is to create it."*
-
-</div>
+<!-- Replace YOURUSERNAME with your actual GitHub username in the stats URL -->
