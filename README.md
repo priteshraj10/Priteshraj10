@@ -1,7 +1,5 @@
 # Hello World! I'm Pritesh Raj 👋 
 
-[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/priteshraj)
-
 ## 🚀 About Me
 
 I'm a passionate Data Scientist and AI Developer from India, on a mission to leverage technology for human advancement. Think of me as an AI architect who builds bridges between complex algorithms and real-world solutions.
