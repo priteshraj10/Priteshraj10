@@ -52,12 +52,6 @@ I'm a passionate **Data Scientist** and **AI Developer** from **India**, on a mi
 
 ---
 
-## 📊 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=priteshraj&show_icons=true&theme=radical)  
-
----
-
 ## 📫 Let's Connect!  
 
 💼 **[LinkedIn](https://www.linkedin.com/in/priteshraj/)**  
