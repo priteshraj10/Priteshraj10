@@ -45,20 +45,6 @@ I'm a passionate **Data Scientist** and **AI Developer** from **India**, on a mi
 
 ---
 
-## 🏥 Healthcare & AI  
-
-🚑 **EHR/EMR Systems** | 💉 **Medical AI** | 🧠 **Fine-tuning LLMs** | ⚙️ **MLOps**  
-
----
-
-## 🌟 Featured Projects  
-
-🚀 **AI Health Assistant** → AI-powered diagnostics for better healthcare  
-📊 **Data Visualization Platform** → Making complex data accessible  
-🧠 **Machine Learning Framework** → Open-source toolkit for rapid ML development  
-
----
-
 ## 🌱 Current Focus  
 
 🔬 Exploring cutting-edge **Large Language Models**  
